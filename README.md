@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/pzmbXFDiRbEEk1vCtP/giphy.gif" width="300"/>
   <h1>
     Welcome to my profile! 👋
   </h1>
@@ -42,6 +43,7 @@ Former Marketer (Data & Insights) and Translator, turned Full Stack Developer �
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eguesbaya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 
 <!--
 **eguesbaya/eguesbaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
