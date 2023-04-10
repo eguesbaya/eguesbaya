@@ -8,9 +8,9 @@
 ### :woman_technologist: About Me :
 Former Marketer (Data & Insights) and Translator, turned Full Stack Developer 💪
 - 🔭 I’m working at Atos
-- 🌱 Currently learning Java, Spring, Python, Django
+- 🌱 Currently learning Java, Spring, Javascript, Angular, Python, Django, PHP, Symfony
 - 👯 I’m looking to collaborate on a webapp that helps French freelancers stay on top of their admin, manage clients and generate invoices
-- 💬 Ask me about PHP/Symfony
+- 💬 Ask me about Java/Spring
 - 😄 Pronouns: She/Her
 - 🇫🇷 Currently based in France
 - ⚡ Fun fact: I love databases !
